@@ -9,7 +9,7 @@
     "@mapbox/rehype-prism": "^0.8.0",
     "@storybook/addon-a11y": "^6.4.22",
     "@storybook/addon-actions": "^6.4.22",
-    "@storybook/addon-controls": "^6.4.22",
+    "@storybook/addon-controls": "^6.5.7",
     "@storybook/addon-toolbars": "^6.4.22",
     "@storybook/builder-webpack5": "^6.4.22",
     "@storybook/manager-webpack5": "^6.4.22",
