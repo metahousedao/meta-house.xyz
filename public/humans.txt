@@ -1,29 +1,28 @@
-__  __  __
-\ \ \ \ \/
- \ \/\ \
-  \/  \/
+ ___      ___ 
+|"  \    /"  |
+ \   \  //   |
+ /\\  \/.    |
+|: \.        |
+|.  \    /:  |
+|___|\__/|___|
 
 The humans.txt file explains the team, technology,
 and graphic assets behind this site humanstxt.org.
 
 _______________________________________________________________________________
 
-DESIGNER | デザイナー
+ABOUT | 关于
 
-Hamish Williams
-Hand crafted design & web development
+MetaHouse
+MetaHouse is a free open-source house building solution provider, a collaboration of talented architects, designers, and collaborators to create modern living spaces with a contemporary feel.
 
-Design tools:
-Figma
-Photoshop
-Blender
-
-twitter.com/hamishmw
-github.com/hamishmw
+discord.gg/M7XU59Xx
+twitter.com/metahousedao
+github.com/metahousedao
 
 _______________________________________________________________________________
 
-TECHNOLOGY | テクノロジー
+TECHNOLOGY | 技术
 
 React
 Next.js
@@ -32,7 +31,7 @@ Framer Motion
 
 _______________________________________________________________________________
 
-FONTS | フォント
+FONTS | 字体
 
 Gotham
 Hiragino Kaku Gothic

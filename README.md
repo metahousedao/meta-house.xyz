@@ -1,8 +1,32 @@
-# Personal portfolio
+# MetaHouse
 
-[![Site preview](/public/site-preview.png)](https://hamishw.com)
+[![Site preview](/public/site-preview.png)](https://meta-house.xyz)
 
-My design portfolio to showcase a few projects. Built with [Next.js](https://nextjs.org/), [Three.js](https://threejs.org/), and [Framer Motion](https://www.framer.com/motion/). View the [live site](https://hamishw.com) or check out a live version of the [components storybook](https://storybook.hamishw.com).
+## What's MetaHouse?
+
+MetaHouse is a free open-source house building solution provider, a collaboration of talented architects, designers, and collaborators to create modern living spaces with a contemporary feel. Through aesthetic and rich designs, houses are made into prefabricated, composable modules that allow people anywhere in the world to create a usable, reliable, and aesthetically pleasing home through simple combinations.
+
+## Our Vision
+
+MetaHouse's vision is to create a world where everyone can live in design housing. Everyone will be able to live in a decent home with free access to practical architectural designs and prefabricated modular combinations at cost. We want everyone in the world to be able to get rid of the heavy mortgage and live a meaningful and easy life.
+
+## Our Value
+
+### Open Source
+
+MetaHouse design and hardware resources will be open and freely published on the web for everyone to use.
+
+### Sustainability
+
+On-demand, local production, reducing waste from garment production as well as shipping.
+
+### Decentralization
+
+MetaHouse believe that decentralization makes the world a better place and more beneficial for every MetaHouse participant.
+
+### Composability
+
+All designs and hardware are combinable for easy interfacing with other hardware facilities.
 
 ## Install & run
 
@@ -32,40 +56,14 @@ npm run build
 
 ## Deployment
 
-I've set up the site using AWS for hosting and serverless functions. You'll need an AWS account and the AWS CLI installed in order to deploy.
+I've set up the site using [netlify](https://netlify.com/) for hosting static website. You'll need an netlify account to deploy.
 
-Deploy the site to s3:
-
-```bash
-npm run deploy
-```
-
-Deploy serverless functions:
+Deploy the site to netlify:
 
 ```bash
-cd functions
+npm run build
 ```
 
-```bash
-npm run deploy:api
-```
+## Copyright
 
-## Permissions
-
-I'm cool with anyone using the code or parts of the code for their own site, it is open source so people can learn from it and adapt it. However, I would encourage you to modify the theme and components it to make it your own. If you are using the site's design largely unmodified, I'd appreciate being credited as the designer of the website.
-
-I do not give permission to present any of my projects as your own (this is being actively used as my portfolio site and these are my real projects I've worked on).
-
-## FAQs
-
-<details>
-  <summary>How do I change the color on the <code>DisplacementSphere</code> (blobby rotating thing in the background).</summary>
-  
-  You'll need to edit the fragment shader. [Check out this issue for more details](https://github.com/HamishMW/portfolio/issues/19#issuecomment-870996615).
-</details>
-
-<details>
-  <summary>How do I get the contact form to work?</summary>
-  
-  It's set up using a serverless function with AWS Lambda. You'll need to set up an AWS account and deploy the function. [Refer to this issue for more details](https://github.com/HamishMW/portfolio/issues/21#issuecomment-958727113).
-</details>
+The site is fork from [Hamish Williams Portfolio](https://github.com/HamishMW/portfolio). Really a very awesome design.
