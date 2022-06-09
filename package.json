@@ -7,7 +7,7 @@
   "author": "Hamish Williams <hello@hamishw.com>",
   "devDependencies": {
     "@mapbox/rehype-prism": "^0.8.0",
-    "@storybook/addon-a11y": "^6.4.22",
+    "@storybook/addon-a11y": "^6.5.8",
     "@storybook/addon-actions": "^6.4.22",
     "@storybook/addon-controls": "^6.4.22",
     "@storybook/addon-toolbars": "^6.4.22",
