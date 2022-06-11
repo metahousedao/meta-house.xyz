@@ -44,7 +44,7 @@ export const Contact = ({
         QQ Channel: MetaHouseDAO
       </Text>
       <Text className={styles.description} data-visible={visible} as="p">
-        Twitter: <Link href="https://discord.gg/M7XU59Xx">@metahouseDAO</Link>
+        Twitter: <Link href="https://twitter.com/MetaHouseDAO">@metahouseDAO</Link>
       </Text>
       <Text className={styles.description} data-visible={visible} as="p">
         Discord: <Link href='https://discord.gg/M7XU59Xx'>@M7XU59Xx</Link>
