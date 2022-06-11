@@ -8,7 +8,7 @@
   "devDependencies": {
     "@mapbox/rehype-prism": "^0.8.0",
     "@storybook/addon-a11y": "^6.5.8",
-    "@storybook/addon-actions": "^6.4.22",
+    "@storybook/addon-actions": "^6.5.8",
     "@storybook/addon-controls": "^6.5.8",
     "@storybook/addon-toolbars": "^6.4.22",
     "@storybook/builder-webpack5": "^6.5.8",
